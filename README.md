@@ -6,7 +6,7 @@ Date Found|Software|Comment
 ----|--------|---
 August 2022|Pentaho CE|[Repo](https://github.com/FelixMartel/pentaho-ce-admin-rce)
 June 2022|TypeORM|[Disputed](https://seclists.org/fulldisclosure/2022/Jun/51),[Thread](https://seclists.org/fulldisclosure/2022/Aug/7)
-May 2022|Adobe Campaign Classic|Public November 2022
+May 2022|Adobe Campaign Classic|CVE-2022-42343
 July 2019|MariaDB|[Fixed](https://hackerone.com/reports/637840)
 July 2018|MSCEP|CVE-2022-37959
 
